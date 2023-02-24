@@ -10,7 +10,6 @@
 
 💡 &nbsp; Third year student at Faculty of Engineering Alexandria University\
 ✉️ &nbsp;You can email me at youhanna.yousry.2580@gmail.com\
-📄 &nbsp;You can check my Resume from [here](https://drive.google.com/file/d/1qnUu4rJwDvCNtG2gf--RZuUrvOqIKllu/view?usp=sharing).
 
 
 ### 🛠 &nbsp;Languages and Tools
