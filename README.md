@@ -8,7 +8,7 @@
 [![GitHub Youhanna Yousry](https://img.shields.io/github/followers/Youhanna-Yousry?label=follow&style=social)](https://github.com/Youhanna-Yousry)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Second year student at Faculty of Engineering Alexandria University\
+💡 &nbsp; Third year student at Faculty of Engineering Alexandria University\
 ✉️ &nbsp;You can email me at youhanna.yousry.2580@gmail.com\
 📄 &nbsp;You can check my Resume from [here](https://drive.google.com/file/d/1qnUu4rJwDvCNtG2gf--RZuUrvOqIKllu/view?usp=sharing).
 
